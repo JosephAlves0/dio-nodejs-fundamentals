@@ -9,3 +9,4 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
 * 02 - Node Modules
     * 01 - Modularização de Projetos NodeJs com CommonJS
     * 02 - Modularização de Projetos NodeJs com EcmaScript Modules
+    * 03 - Carrinho de Compras da Shopee
