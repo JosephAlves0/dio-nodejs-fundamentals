@@ -13,3 +13,4 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
     * 04 - Desafio de Códigos I
 * 02 - Gerenciando Pacotes no NodeJs com NPM
     * 01 - Gerenciando Pacotes com Node
+    * 02 - NPM Scripts em NodeJs
