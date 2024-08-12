@@ -14,3 +14,4 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
 * 02 - Gerenciando Pacotes no NodeJs com NPM
     * 01 - Gerenciando Pacotes com Node
     * 02 - NPM Scripts em NodeJs
+    * 03 - Gerenciando Variáveis de Ambientes com NPM
