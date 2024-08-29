@@ -16,3 +16,4 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
     * 02 - NPM Scripts em NodeJs
     * 03 - Gerenciando Variáveis de Ambientes com NPM
     * 04 - Criando um Gerador de QR Codes para E-Commerces
+    * 05 - Desafios de Códigos II
