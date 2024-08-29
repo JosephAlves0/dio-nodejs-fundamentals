@@ -11,9 +11,11 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
     * 02 - Modularização de Projetos NodeJs com EcmaScript Modules
     * 03 - Carrinho de Compras da Shopee
     * 04 - Desafio de Códigos I
-* 02 - Gerenciando Pacotes no NodeJs com NPM
+* 03 - Gerenciando Pacotes no NodeJs com NPM
     * 01 - Gerenciando Pacotes com Node
     * 02 - NPM Scripts em NodeJs
     * 03 - Gerenciando Variáveis de Ambientes com NPM
     * 04 - Criando um Gerador de QR Codes para E-Commerces
     * 05 - Desafios de Códigos II
+* 04 - Typescript para Devs NodeJs
+    * 01 - Introdução a TypeScript e Supersets
