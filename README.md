@@ -22,4 +22,4 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
     * 02 - Como configurar TypeScript
     * 03 - Debugging NodesJs
 * 06 - Criando APIs com NodeJs
-    * 01 - Gerenciado de Podcasts
+    * 01 - Gerenciador de Podcasts
