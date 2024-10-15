@@ -19,3 +19,7 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
     * 05 - Desafios de Códigos II
 * 04 - Typescript para Devs NodeJs
     * 01 - Introdução a TypeScript e Supersets
+    * 02 - Como configurar TypeScript
+    * 03 - Debugging NodesJs
+* 06 - Criando APIs com NodeJs
+    * 01 - Gerenciado de Podcasts
