@@ -23,3 +23,4 @@ Esse é um projeto para estudos de Node.Js através da plataforma DIO.
     * 03 - Debugging NodesJs
 * 06 - Criando APIs com NodeJs
     * 01 - Gerenciador de Podcasts
+    * 02 - Criando uma Minimal API de Fórmula 1 com NodeJs e Fastify
